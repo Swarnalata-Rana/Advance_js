@@ -17,3 +17,5 @@ const prom=new Promise((resolve,reject)=>{
     })
 // o/p-yes
 
+//promise are useing callback hell handel
+
